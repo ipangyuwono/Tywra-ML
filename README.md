@@ -26,7 +26,7 @@ This platform enables users—from beginners to enthusiasts—to understand ML c
 ### ⚙️ Tech Stack
 
 * **Framework:** Next.js
-* **Library:*React.js*
+* **Library**:React.js
 * **Styling:** Tailwind CSS
 * **Icons:** Lucide React
 * **Language:** TypeScript
