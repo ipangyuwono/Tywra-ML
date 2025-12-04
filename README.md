@@ -53,8 +53,3 @@ Built to bridge the gap between complex algorithms and user experience, this pla
 ### Backend / Infrastructure
 * **API:** Custom ML API (Serverless Functions / Python Bridge)
 * **Deployment:** Vercel
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
